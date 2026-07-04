@@ -1,0 +1,42 @@
+{
+  "hitesh": [
+    { "url": "https://youtu.be/LWMk9yFAE5M", "title": "Cohort 2026 announcement", "tags": ["voice-heavy", "cohort"] },
+    { "url": "https://youtu.be/uC-97h38lWg", "title": "Cohort FAQ", "tags": ["voice-heavy", "qna"] },
+    { "url": "https://youtu.be/N5LkiQ4_nT0", "title": "A placement roadmap that you will not like", "tags": ["opinion", "career", "voice-heavy"] },
+    { "url": "https://youtu.be/GWvW96WNB6Q", "title": "Engineering College is just to mentally break students?", "tags": ["opinion", "voice-heavy"] },
+    { "url": "https://youtu.be/KnIye1fJF80", "title": "AI is 90% marketing and 10% reality", "tags": ["opinion", "ai", "voice-heavy"] },
+    { "url": "https://youtu.be/pFbKBEC6g_I", "title": "Bringing consistency to your coding journey", "tags": ["motivation", "voice-heavy"] },
+    { "url": "https://youtu.be/CvuNdXB_UQg", "title": "Are you really ready for DSA", "tags": ["opinion", "dsa"] },
+    { "url": "https://youtu.be/BiQaNR0Rycs", "title": "Tech for 2025 | No nonsense guide", "tags": ["roadmap", "opinion"] },
+    { "url": "https://youtu.be/Ax2t8KndS_c", "title": "Pick these tech to make or destroy your tech career", "tags": ["roadmap", "career"] },
+    { "url": "https://youtu.be/Uu7v3VG0PzA", "title": "Roadmap for 1st year computer science engineers", "tags": ["roadmap", "career"] },
+    { "url": "https://youtu.be/p--JaQFydQA", "title": "How to handle study backlog - for college students", "tags": ["advice", "voice-heavy"] },
+    { "url": "https://youtu.be/6dqAwh2MCg0", "title": "Ultimate AI ML Roadmap for beginners", "tags": ["roadmap", "ai"] },
+    { "url": "https://youtu.be/hpc5DO2dC-4", "title": "What is Agentic AI and AI Agents. Only video you need to watch", "tags": ["teaching", "genai"] },
+    { "url": "https://youtu.be/B5LZnYYoLtY", "title": "What are AI Agents in depth", "tags": ["teaching", "genai"] },
+    { "url": "https://youtu.be/FVM82rMMmEI", "title": "3 pillars of software Development for beginners", "tags": ["teaching", "fundamentals"] },
+    { "url": "https://youtu.be/ZmjBN_SY5xo", "title": "The Future of Programming: Embracing AI in Development", "tags": ["opinion", "ai"] },
+    { "url": "https://youtu.be/VNb_LawBBWU", "title": "GenAI for developers cohort launch", "tags": ["cohort", "genai"] },
+    { "url": "https://youtu.be/cKIR9thCZhA", "title": "npm vs Yarn vs pnpm vs Bun - Which Package Manager in 2025?", "tags": ["teaching", "opinion", "javascript"] }
+  ],
+
+  "piyush": [
+    { "url": "https://youtu.be/QLQkLXHi0lY", "title": "Ask Me Anything - AMA 2025", "tags": ["voice-heavy", "qna"] },
+    { "url": "https://youtu.be/WT2U5M4l9iQ", "title": "Will AI Replace Coding Jobs in 2026?", "tags": ["opinion", "career", "voice-heavy"] },
+    { "url": "https://youtu.be/ymgIkJ5fANw", "title": "Is AI Bubble going to burst? Should you learn AI in 2026?", "tags": ["opinion", "ai", "voice-heavy"] },
+    { "url": "https://youtu.be/4V0YhA9s5fU", "title": "How to Master System Design?", "tags": ["career", "system-design", "voice-heavy"] },
+    { "url": "https://youtu.be/fkQUkZRFq8g", "title": "Become PRO at Backend and System Design", "tags": ["career", "system-design"] },
+    { "url": "https://youtu.be/BETonxhkE9A", "title": "Docker is Dead!", "tags": ["opinion", "docker"] },
+    { "url": "https://youtu.be/oE2pbAKh0Zg", "title": "How to Deploy Docker on Cloud? Docker Deployments Explained", "tags": ["teaching", "docker"] },
+    { "url": "https://youtu.be/f3zHina9MTo", "title": "RAG is Dead - Introduction to Vectorless RAG", "tags": ["teaching", "genai", "opinion"] },
+    { "url": "https://youtu.be/OdNpY3WQniQ", "title": "System Design Patterns you should Master Right Now", "tags": ["teaching", "system-design"] },
+    { "url": "https://youtu.be/2tCfITBVKjA", "title": "Master Queues | System Design Interview", "tags": ["teaching", "system-design"] },
+    { "url": "https://youtu.be/Zaz6hYVm-WE", "title": "WebRTC vs SFU vs MCU - System Design Behind Video Calls", "tags": ["teaching", "system-design"] },
+    { "url": "https://youtu.be/Jq2g3qseIj0", "title": "Monitoring Outages - Site Reliability Engineering", "tags": ["teaching", "system-design"] },
+    { "url": "https://youtu.be/9Hj55Ycg2fA", "title": "OpenAI Agent SDK Series - Introduction", "tags": ["teaching", "genai", "voice-heavy"] },
+    { "url": "https://youtu.be/CCV5fKgmdQc", "title": "Building our first AI Agent - Hello World", "tags": ["teaching", "genai"] },
+    { "url": "https://youtu.be/2kQ6fF2wIw8", "title": "Tool Calling in AI Agents", "tags": ["teaching", "genai"] },
+    { "url": "https://youtu.be/2HHlAD6YSkY", "title": "This Changes How AI Understands Context - LLM Wiki", "tags": ["teaching", "genai"] },
+    { "url": "https://youtu.be/73TAAuBiiN4", "title": "SEO is Dead - AI Agent and Content Negotiations", "tags": ["opinion", "ai"] }
+  ]
+}
