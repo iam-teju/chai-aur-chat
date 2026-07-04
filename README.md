@@ -2,7 +2,7 @@
 
 Chat with data-grounded AI personas of two beloved coding teachers — or watch them discuss your question together in **Chai pe Charcha** mode. Built for the ChaiCode GenAI with JavaScript cohort.
 
-**Live:** _add your Vercel URL here_
+**Live:** https://chai-aur-chat.vercel.app
 
 ## Features
 - Two personas with measurably distinct voices (Hindi-dominant vs English-dominant Hinglish), generated from 165k words of real transcript data
